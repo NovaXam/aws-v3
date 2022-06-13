@@ -67,7 +67,7 @@ You'll never see that secret access key again unless you download the CSV with t
 
 ## Getting a better sign-in URL
 
-We've made a bunch of green checks now. But, let's do one more thing while we're here. If you look over in that column to the right, we have a lovely sign-in URL that is a bunch of numbers. Gross. Let's create an account alias.
+We've made a bunch of yellow checks now. But, let's do one more thing while we're here. If you look over in that column to the right, we have a lovely sign-in URL that is a bunch of numbers. Gross. Let's create an account alias.
 
 ![account-alias.png](Attachments/account-alias.png)
 
